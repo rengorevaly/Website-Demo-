@@ -1,0 +1,68 @@
+body {
+	margin: 0;
+	background-image: url(img/cat2.jpg);
+    background-color: #A2CAD3;
+    background-blend-mode:  lighten;
+    font-family: helvetica, arial, sans-serif;
+
+
+}
+
+header {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpn4whUZPb44_A9VkYnGO5adBIx4JsTEz-dg&usqp=CAU);
+    text-align: center;
+    border: 15px solid #9C7651;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+
+}
+
+h1, h2{
+
+	font-family: 'Chango', cursive;
+}
+
+
+header h1 {
+
+	color: white;
+
+	
+}
+
+h2 {
+
+	font-size: 30px;
+}
+
+
+h3 {
+
+	text-align: center;
+
+}
+
+h4{
+	border: 15px solid #9C7651;
+	padding-top: -30px;
+	padding-bottom: -20px;
+
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid #9C7651;
+
+
+
+}
+
+main {
+	font-size: 15px;
+
+}
+
+p

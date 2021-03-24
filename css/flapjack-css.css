@@ -1,7 +1,7 @@
 body, footer2 {
 	margin: 0;
-    background-color: saddlebrown;
-    background-blend-mode: soft-light;
+    background-color: slategray;
+    background-blend-mode: multiply;
     background-size: 400px 100px;
     font-family: helvetica, arial, sans-serif;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpn4whUZPb44_A9VkYnGO5adBIx4JsTEz-dg&usqp=CAU);
@@ -13,11 +13,11 @@ header {
 	background-image: url(../img/woodhd.jpg);
 	/*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpn4whUZPb44_A9VkYnGO5adBIx4JsTEz-dg&usqp=CAU*/
     background-repeat: repeat-x;
-    background-size: 675px 450px;
-    background-color: saddlebrown;
-    background-blend-mode: soft-light;
+    background-size: 675px 470px;
+    background-color: slategray;
+    background-blend-mode: multiply;
     text-align: center;
-    border: 20px solid saddlebrown;
+    border: 20px solid #734F38;
     padding-top: 50px;
     padding-bottom: 50px 720px;x;
     border-radius: 40px;
@@ -65,7 +65,7 @@ h4{
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid saddlebrown;
+	border: 15px solid #734F38;
 	height: 200px;
 	width: 200px;
 	margin: 0;

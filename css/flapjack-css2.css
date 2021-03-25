@@ -4,7 +4,8 @@ body, footer2 {
     background-blend-mode: multiply;
     background-size: 400px 100px;
     font-family: helvetica, arial, sans-serif;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpn4whUZPb44_A9VkYnGO5adBIx4JsTEz-dg&usqp=CAU);
+    background-image: url(../img/woodhd.jpg);
+    background-size: 675px 1570px;
 /*#A2CAD3; is the color used before and command font-size: 25px;*/
 /*wood image background: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpn4whUZPb44_A9VkYnGO5adBIx4JsTEz-dg&usqp=CAU */
 }
